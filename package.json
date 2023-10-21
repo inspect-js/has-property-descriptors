@@ -1,6 +1,6 @@
 {
 	"name": "has-property-descriptors",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Does the environment have full property descriptor support? Handles IE 8's broken defineProperty/gOPD.",
 	"main": "index.js",
 	"exports": {
