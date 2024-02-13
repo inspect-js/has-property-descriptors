@@ -56,7 +56,7 @@
 		"tape": "^5.7.4"
 	},
 	"dependencies": {
-		"get-intrinsic": "^1.2.2"
+		"get-intrinsic": "^1.2.4"
 	},
 	"testling": {
 		"files": "test/index.js"
